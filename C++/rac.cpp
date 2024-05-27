@@ -20,5 +20,6 @@ int main(){
 		cin >> l;
 		cout << f[l] << endl;
 	}
+	cout << "hello world!"
 	
 }
